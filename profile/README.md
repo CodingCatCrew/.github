@@ -4,7 +4,7 @@
 
 ### 멤바 : 김민규, 김도현, 우영두, 이삭, 이영진, 이원석, 이진욱, 정지원, 조기범, 조범준, 한지석
 <table>
-    <td align="center"><a href="https://github.com/Gyumong"><img src="https://avatars.githubusercontent.com/u/60845910?v=4" width="100px;" alt=""/><br /><sub><b>Guymong</b></sub></a><br />💻</a></td>
+    <td align="center"><a href="https://github.com/Gyumong"><img src="https://avatars.githubusercontent.com/u/60845910?v=4" width="100px;" alt=""/><br /><sub><b>Gyumong</b></sub></a><br />💻</a></td>
     <td align="center"><a href="https://github.com/K-Diger"><img src="https://avatars.githubusercontent.com/u/60564431?v=4" width="100px;" alt=""/><br /><sub><b>K-Diger</b></sub></a><br />💻</a></td>
     <td align="center"><a href="https://github.com/woo0doo"><img src="https://avatars.githubusercontent.com/u/114072164?v=4" width="100px;" alt=""/><br /><sub><b>woo0doo</b></sub></a><br />💻</a></td>
     <td align="center"><a href="https://github.com/lsakee"><img src="https://avatars.githubusercontent.com/u/93514333?v=4" width="100px;" alt=""/><br /><sub><b>Toast</b></sub></a><br />💻</a></td>
